@@ -11,45 +11,57 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Im not sure how i got here
-## i pretty much just googled some things
-### this will be my project, itll evolve over time
+# veazy.github.io
 
-- things i like
-- nice weather
-- learning
-- growing
-- making money
-- making friends
-- being a dad
+## **Pretty sure i have zero idea what im doing but at least i dont feel as stupid as i did before.**
 
-1. To Do List
-2. learn to code
-3. learn to dev
-4. learn to hcka
-5. be sleuth asf
-6. i guess this is more a list of goals concerning this area of knowledge
+I thought i was using the cayman theme what is this basic shit.
 
-1. i gotta feed my plant 
-2. maybe add some co2 shouldve done it sooner
-3. then flush
-4. then 72hrs of darkness to make sure the sugars recede back into the soil
-5. dry and cure
-6. need more equipment
-7. gotta stop smokin
-8. gotta start runnin
-9. introverted asf
-10. 369 im going to achieve all of my goals.
+_Whatever_
 
-**Word so this is bold right and**
+**To Do List** (Growing)
 
-_Italic_this is italic ok ook then i gotta close it?_
+1. Pay rent
+2. Feed my Plant
+3. Add some co2
+4. Flush in a couple of weeks
+5. Finish it off with 72 hrs of darkness
+6. Dry and Cure
+7. Get it tested
+8. Enter it into a competition
+9. Win that bih
+10. Become a Caregiver
 
-word i closed ok ok
+**To Do List** (Coding)
 
-now whats this code shit
+1. Become an immortal
+2. Get offered a job from anonymous only to turn them down in the // comments
+3. Tell everyone that story when im drunk
+4. Start drinking
+5. Just kidding i dont really drink 
+6. Strop smoking
+7. Never
+8. ok seriously
+9. Learn to code
+10. Learn to build
+11. Learn to design
+12. Become a full stack
 
-'Code'ok what does this do i dont think i did it right.
+_As you can see im all over the place when it comes to coding, but itll become refined as i go._
+
+**To Do List** (Community Building)
+
+1. Support the community
+2. Help our artists, developers and content creators gain exposure
+3. Support other communities that share the same vision and values
+4. Buy some artwork, share that artwork
+5. Open the Spaces to our Artists so the community can get to know them better.
+
+<image src="https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b" >
+  <link "https://twitter.com/veazydoezit" >
+  
+  ### I HAVE NO IDEA IF THIS WILL WORK ITS SUPPOSED TO SHOW DEWEY DUCK AND A LINK TO MY TWITTER PROFILE 
+
 
 **Bold** and _Italic_ and `Code` text
 
