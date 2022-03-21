@@ -58,7 +58,7 @@ _As you can see im all over the place when it comes to coding, but itll become r
 5. Open the Spaces to our Artists so the community can get to know them better.
 
 <image src="https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b" >
-  <link "https://twitter.com/veazydoezit" >
+  [Link](https://twitter.com/veazydoezit)
   
   ### I HAVE NO IDEA IF THIS WILL WORK ITS SUPPOSED TO SHOW DEWEY DUCK AND A LINK TO MY TWITTER PROFILE 
 
