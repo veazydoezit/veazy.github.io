@@ -71,6 +71,11 @@ _As you can see im all over the place when it comes to coding, but itll become r
 [Link](www.twitter.com/veazydoezit) and ![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)
 ```
 
+[![Engagement Farm][1]][2]
+
+[1]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b
+[2]:  https://twitter.com/veazydoezit "Redirect to Farm"
+
 [clickbait](https://twitter.com/veazydoezit) and ![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
