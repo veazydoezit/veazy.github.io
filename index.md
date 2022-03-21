@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my based asf pages
 
 You can use the [editor on GitHub](https://github.com/veazydoezit/veazy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,19 +11,49 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Im not sure how i got here
+## i pretty much just googled some things
+### this will be my project, itll evolve over time
 
-- Bulleted
-- List
+- things i like
+- nice weather
+- learning
+- growing
+- making money
+- making friends
+- being a dad
 
-1. Numbered
-2. List
+1. To Do List
+2. learn to code
+3. learn to dev
+4. learn to hcka
+5. be sleuth asf
+6. i guess this is more a list of goals concerning this area of knowledge
+
+1. i gotta feed my plant 
+2. maybe add some co2 shouldve done it sooner
+3. then flush
+4. then 72hrs of darkness to make sure the sugars recede back into the soil
+5. dry and cure
+6. need more equipment
+7. gotta stop smokin
+8. gotta start runnin
+9. introverted asf
+10. 369 im going to achieve all of my goals.
+
+**Word so this is bold right and**
+
+_Italic_this is italic ok ook then i gotta close it?_
+
+word i closed ok ok
+
+now whats this code shit
+
+'Code'ok what does this do i dont think i did it right.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](www.twitter.com/veazydoezit) and ![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
