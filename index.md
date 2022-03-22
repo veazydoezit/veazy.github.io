@@ -71,7 +71,7 @@ _As you can see im all over the place when it comes to coding, but itll become r
 [![Engagement Farm][1]][2]
 
 [1]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b
-[2]:  https://twitter.com/veazydoezit "Redirect to Farm"
+[2]:  https://twitter.com/veazydoezit "Open Sesame"
 
 [clickbait](https://twitter.com/veazydoezit) 
 
