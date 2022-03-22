@@ -1,9 +1,32 @@
 ## Welcome to my based asf pages
 
 
-### Markdown
+### VEAZYDOEZIT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>apparantly this is a block quote im not sure what its going to look like but lets give it a try :D
+>and another
+>and another
+>woooooooooooo
+>on the block
+>the block is hot
+>##lets fxxxxxx goooooooooo
+
+* This is another list except this one has multiple paragraphs, as you continue to reads youll see what im talking about.
+
+¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶¶¶¶¶¶¶1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶§§§1§§¶¶
+¶¶¶¶¶¶_§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶§1___1§§¶¶¶¶¶
+¶¶¶¶§__¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶§1______§¶¶¶¶¶¶¶¶¶¶
+¶¶¶§___¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶§§1_______1§¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶¶¶____1¶¶¶¶¶¶¶¶¶¶§11_________1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶¶_______11111____________§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶¶____________________§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶¶_______________1§¶¶¶¶¶¶¶¶Just Do It¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶¶¶__________1§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶¶¶¶¶¶§§§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+
+
 
 ```markdown
 Syntax highlighted code block
