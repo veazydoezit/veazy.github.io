@@ -4,14 +4,17 @@
 ### VEAZYDOEZIT
 
 >apparantly this is a block quote im not sure what its going to look like but lets give it a try :D
->and another
->and another
->woooooooooooo
->on the block
->the block is hot
->##lets fxxxxxx goooooooooo
 
 * This is another list except this one has multiple paragraphs, as you continue to reads youll see what im talking about.
+
+
+```markdown
+Syntax highlighted code block
+
+# veazy.github.io
+
+#### **Pretty sure i have zero idea what im doing but at least i dont feel as stupid as i did before.**
+
 
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
@@ -22,18 +25,10 @@
 ¶¶¶____1¶¶¶¶¶¶¶¶¶¶§11_________1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶_______11111____________§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶____________________§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
-¶¶_______________1§¶¶¶¶¶¶¶¶Just Do It¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶¶_______________1§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶¶__________1§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶¶¶¶¶§§§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 
-
-
-```markdown
-Syntax highlighted code block
-
-# veazy.github.io
-
-#### **Pretty sure i have zero idea what im doing but at least i dont feel as stupid as i did before.**
 
 I thought i was using the cayman theme what is this basic shit.
 
