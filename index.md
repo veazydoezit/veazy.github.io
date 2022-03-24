@@ -1,7 +1,35 @@
-## Welcome to my based asf pages
+# WELCOME TO THE ZILFAM CHAPTER OF THE SKULL AND BONES SOCIETY
 
 
-### VEAZYDOEZIT
+### 'VEAZYDOEZIT' 
+
+[1^]: FOOTNOTE SHIT OUT OUT
+
+
+My favorite color is <span style="color:Red">Blue</span>.
+
+
+'''markdown
+Syntax highlited code block
+
+*balsdkfsaldkfjaslkdjflskjdfslakjflsk
+
+lskdfjalskdjflskjfdslkdfjslkj
+
+*sdlfkjsldfkjslkdfjslkdj
+
+Table	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+Fenced Code Block	```
+{
+  "firstName": "AIR",
+  "lastName": "VEAZY",
+  "age": 32
+}
+```
 
 >apparantly this is a block quote im not sure what its going to look like but lets give it a try :D
 
@@ -13,9 +41,9 @@ Syntax highlighted code block
 
 # veazy.github.io
 
-#### **Pretty sure i have zero idea what im doing but at least i dont feel as stupid as i did before.**
+# ** IF YOU'RE READING THIS IT'S TOO LATE **
 
-*******************************************************************************
+<span style="color:blue">*******************************************************************************</span>
 ********************************************************************************
 ********************************************************************************
 ********************************************************************************
@@ -66,28 +94,48 @@ Table	| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
 Fenced Code Block	```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "AIR",
+  "lastName": "VEAZY",
+  "age": 32
 }
 ```
-Footnote	Here's a sentence with a footnote. [^1]
+Footnote	Making Changes [^1]
 
 [^1]: This is the footnote.
+
 Heading ID	### My Great Heading {#custom-id}
+
 Definition List	term
+
 : definition
 Strikethrough	~~The world is flat.~~
-Task List	- [x] Write the press release
+
+Task List	
+
+- [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+- [x] Learn to use Svelte
+- [ ] Learn to make an application
+- [ ] Find Balance
+
+
 Emoji
 (see also Copying and Pasting Emoji)	That is so funny! :joy:
+
 Highlight	I need to highlight these ==very important words==.
+
+==NINES IS A LEGEND==
+
 Subscript	H~2~O
 Superscript	X^2^
+
+V~E~A~Z~Y
+D^O^E^Z^I^T
 
 
 I thought i was using the cayman theme what is this basic shit.
@@ -135,8 +183,15 @@ _As you can see im all over the place when it comes to coding, but itll become r
 <image src="https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b" >
   [Link](https://twitter.com/veazydoezit)
   
-  ### I HAVE NO IDEA IF THIS WILL WORK ITS SUPPOSED TO SHOW DEWEY DUCK AND A LINK TO MY TWITTER PROFILE 
-
+> ### I HAVE NO IDEA IF THIS WILL WORK ITS SUPPOSED TO SHOW DEWEY DUCK AND A LINK TO MY TWITTER PROFILE 
+>> I hope its working
+  >>
+  > * quote a listttttt
+  > * etcccc
+  
+  > lets goooo
+  
+  
 
 **Bold** and _Italic_ and `Code` text
 
