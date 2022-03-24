@@ -226,18 +226,20 @@ _As you can see im all over the place when it comes to coding, but itll become r
 4. Buy some artwork, share that artwork
 5. Open the Spaces to our Artists so the community can get to know them better.
 ```
+```
 <image src="https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b" >
   [Link](https://twitter.com/veazydoezit)
-
+```
 ### I HAVE NO IDEA IF THIS WILL WORK ITS SUPPOSED TO SHOW DEWEY DUCK AND A LINK TO MY TWITTER PROFILE 
 
 **Bold** and _Italic_ and `Code` text
 
 ![DeweyDuck](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b "DeweyDuck")
 
-```
+`the syntax boxes keep fxxkin me up`
+
 [Link](www.twitter.com/veazydoezit) and ![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)
-```
+
 
 [![Engagement Farm][1]][2]
 
@@ -245,7 +247,7 @@ _As you can see im all over the place when it comes to coding, but itll become r
 [2]:  https://twitter.com/veazydoezit "Open Sesame"
 
 [clickbait](https://twitter.com/veazydoezit) 
-
+```
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
