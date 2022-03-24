@@ -238,7 +238,8 @@ _As you can see im all over the place when it comes to coding, but itll become r
 
 `the syntax boxes keep fxxkin me up`
 
-`[Link](www.twitter.com/veazydoezit) and ![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)`
+`[Link](www.twitter.com/veazydoezit) and 
+![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)`
 
 
 [![Find your Soulmate][3]][4]
@@ -248,7 +249,10 @@ _As you can see im all over the place when it comes to coding, but itll become r
 
 [link] (https://zilswap.io/arky/discover)
 
+[![Gang Gang][5]][6]
 
+[5]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x8a79bac7a6383211ae902f34e86c6b729906346d/e84e4c92-2012-4fe2-b85e-df747dd78c32
+[6]: https://zilswap.io/arky/collections/zil13fum43ax8qeprt5s9u6wsmrtw2vsvdrdhmvtrm "Grrrr Pow"
 
 [![Engagement Farm][1]][2]
 
