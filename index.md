@@ -2,12 +2,14 @@
 
 ### Read the Rules
 ```
-Rule 1: No Rules :B):
+Rule 1: No Rules
+Rule 2: Just Kidding
+Rule 3: Refer to Rule 1
 ```
 
-'VEAZYDOEZIT' 
+[1^]: FOOTNOTE VEAZYDOEZIT
 
-[1^]: FOOTNOTE SHIT
+<span style="color:yellow">AM I DOING THIS RIGHT</span>.
 
 
 | Veg Sch 75 D	| Transplant | Training | Feeding |
@@ -43,15 +45,35 @@ Table	| Syntax | Description |
 | Header | Title |
 | Paragraph | Text |
 
-Fenced Code Block	```
+Fenced Code Block	
 
+```
 {
   "firstName": "AIR",
   "lastName": "VEAZY",
   "age": 32
 }
 ```
+```
+{
+  "Make": "Zil",
+  "Model": "Lambo",
+  "Class": "D",
+}
+```
+```
+{
+  "Are you Not Entertained???": "Do i not entertain You???: I AM GLADIOTOOORRR"
+}
+```
 
+Fenced Code Block```
+{
+  "Blah": "Blah"
+  "Blah": "Blah"
+}
+```
+```
 >apparantly this is a block quote im not sure what its going to look like but lets give it a try :D
 
 * This is another list except this one has multiple paragraphs, as you continue to reads youll see what im talking about.
@@ -63,6 +85,10 @@ Syntax highlighted code block
 # veazy.github.io
 
 # ** <span style="color:blue">IF YOU'RE READING THIS IT'S TOO LATE</span>. **
+
+<span style="color:blue">IF YOU'RE READING THIS IT'S TOO LATE</span>.
+blah blah blah <span style="color:blue">IF YOU'RE READING THIS IT'S TOO LATE</span>.
+
 ```
 ```
 ********************************************************************************
