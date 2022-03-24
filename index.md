@@ -11,6 +11,7 @@ Rule 3: Refer to Rule 1
 
 <span style="color:yellow">AM I DOING THIS RIGHT</span>.
 
+blah blah blah <span style="color:blue">IF YOU'RE READING THIS IT'S TOO LATE</span>.
 
 | Veg Sch 75 D	| Transplant | Training | Feeding |
 | ----------- | -----------| ---------| ------- |
