@@ -246,7 +246,7 @@ _As you can see im all over the place when it comes to coding, but itll become r
 [1]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x8a79bac7a6383211ae902f34e86c6b729906346d/fb05245b-fe9f-4e0c-82cd-ed848ac496a1
 [2]:  https://zilswap.io/arky/collections/zil13fum43ax8qeprt5s9u6wsmrtw2vsvdrdhmvtrm "Enter the Citadel"
 
-[ARKY] (https://zilswap.io/arky/discover)
+[link] (https://zilswap.io/arky/discover)
 
 
 
