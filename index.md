@@ -238,7 +238,15 @@ _As you can see im all over the place when it comes to coding, but itll become r
 
 `the syntax boxes keep fxxkin me up`
 
-[Link](www.twitter.com/veazydoezit) and ![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)
+`[Link](www.twitter.com/veazydoezit) and ![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)`
+
+[![Find your Soulmate][1]][2]
+
+[1]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x8a79bac7a6383211ae902f34e86c6b729906346d/fb05245b-fe9f-4e0c-82cd-ed848ac496a1
+[2]:  https://zilswap.io/arky/collections/zil13fum43ax8qeprt5s9u6wsmrtw2vsvdrdhmvtrm "Enter the Citadel"
+
+[ARKY] (https://zilswap.io/arky/discover)
+
 
 
 [![Engagement Farm][1]][2]
