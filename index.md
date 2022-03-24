@@ -3,14 +3,26 @@
 
 ### 'VEAZYDOEZIT' 
 
-[1^]: FOOTNOTE SHIT OUT OUT
+[1^]: FOOTNOTE SHIT
 
+
+Table	| Syntax | Description |
+| ----------- | ----------- |
+| this is | not excel | so enjoy this | hope this fits |
+| rather its | some hack shit | i have zero clue |
+| ok lfg | will this be even | idk |
+
+Fenced Code Block	```
+{
+  "firstName": "AIR",
+  "lastName": "VEAZY",
+  "age": 32
+}
 
 My favorite color is <span style="color:Red">Blue</span>.
 
 
-'''markdown
-Syntax highlited code block
+```
 
 *balsdkfsaldkfjaslkdjflskjdfslakjflsk
 
@@ -18,12 +30,15 @@ lskdfjalskdjflskjfdslkdfjslkj
 
 *sdlfkjsldfkjslkdfjslkdj
 
+```
+
 Table	| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
 Fenced Code Block	```
+
 {
   "firstName": "AIR",
   "lastName": "VEAZY",
@@ -43,7 +58,7 @@ Syntax highlighted code block
 
 # ** IF YOU'RE READING THIS IT'S TOO LATE **
 
-<span style="color:blue">*******************************************************************************</span>
+<span style="color:blue">*</span>******************************************************************************
 ********************************************************************************
 ********************************************************************************
 ********************************************************************************
@@ -90,17 +105,7 @@ Syntax highlighted code block
 ¶¶¶__________1§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶¶¶¶¶¶§§§¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 
-Table	| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
-Fenced Code Block	```
-{
-  "firstName": "AIR",
-  "lastName": "VEAZY",
-  "age": 32
-}
 ```
 Footnote	Making Changes [^1]
 
@@ -113,6 +118,7 @@ Definition List	term
 : definition
 Strikethrough	~~The world is flat.~~
 
+```
 Task List	
 
 - [x] Write the press release
@@ -122,14 +128,16 @@ Task List
 - [x] Learn to use Svelte
 - [ ] Learn to make an application
 - [ ] Find Balance
-
+```
 
 Emoji
 (see also Copying and Pasting Emoji)	That is so funny! :joy:
 
 Highlight	I need to highlight these ==very important words==.
 
+```
 ==NINES IS A LEGEND==
+```
 
 Subscript	H~2~O
 Superscript	X^2^
@@ -142,6 +150,7 @@ I thought i was using the cayman theme what is this basic shit.
 
 _Whatever_
 
+```
 **To Do List** (Growing)
 
 1. Pay rent
@@ -154,7 +163,8 @@ _Whatever_
 8. Enter it into a competition
 9. Win that bih
 10. Become a Caregiver
-
+```
+```
 **To Do List** (Coding)
 
 1. Become an immortal
@@ -169,9 +179,11 @@ _Whatever_
 10. Learn to build
 11. Learn to design
 12. Become a full stack
+```
 
 _As you can see im all over the place when it comes to coding, but itll become refined as i go._
 
+```
 **To Do List** (Community Building)
 
 1. Support the community
@@ -179,19 +191,12 @@ _As you can see im all over the place when it comes to coding, but itll become r
 3. Support other communities that share the same vision and values
 4. Buy some artwork, share that artwork
 5. Open the Spaces to our Artists so the community can get to know them better.
+```
 
 <image src="https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b" >
   [Link](https://twitter.com/veazydoezit)
   
-> ### I HAVE NO IDEA IF THIS WILL WORK ITS SUPPOSED TO SHOW DEWEY DUCK AND A LINK TO MY TWITTER PROFILE 
->> I hope its working
-  >>
-  > * quote a listttttt
-  > * etcccc
-  
-  > lets goooo
-  
-  
+### I HAVE NO IDEA IF THIS WILL WORK ITS SUPPOSED TO SHOW DEWEY DUCK AND A LINK TO MY TWITTER PROFILE 
 
 **Bold** and _Italic_ and `Code` text
 
