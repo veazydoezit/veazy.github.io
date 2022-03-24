@@ -1,17 +1,22 @@
 # WELCOME TO THE ZILFAM CHAPTER OF THE SKULL AND BONES SOCIETY
 
 ### Read the Rules
+```
+Rule 1: No Rules :B):
+```
 
 'VEAZYDOEZIT' 
 
 [1^]: FOOTNOTE SHIT
 
 
-Table	| Syntax | Description |
-| ----------- | ----------- |
-| this is | not excel | so enjoy this | hope this fits |
-| rather its | some hack shit | i have zero clue |
-| ok lfg | will this be even | idk |
+Veg Sch 75 D	| Transplant | Training | Feeding |
+| ----------- | -----------| ---------| ------- |
+| Week 0-2 | (2) 3 gal pot | None | Compost Tea |
+| Week 3-4 | None | Topping/Mainline | Water |
+| Week 5-6 | (5) 5 gal pot | ML/Super Crop | Compost Tea |
+| Week 7-8 | (8) 7 gal Pot w/ SS | ML/SC/Lollipop | Compost Tea |
+
 
 Fenced Code Block	```
 {
@@ -197,24 +202,24 @@ _As you can see im all over the place when it comes to coding, but itll become r
 ```
 <image src="https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b" >
   [Link](https://twitter.com/veazydoezit)
-  
+```  
 ### I HAVE NO IDEA IF THIS WILL WORK ITS SUPPOSED TO SHOW DEWEY DUCK AND A LINK TO MY TWITTER PROFILE 
 
 **Bold** and _Italic_ and `Code` text
-
+```
 ![DeweyDuck](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b "DeweyDuck")
-
-
+```
+```
 [Link](www.twitter.com/veazydoezit) and ![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)
 ```
-
+```
 [![Engagement Farm][1]][2]
 
 [1]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b
 [2]:  https://twitter.com/veazydoezit "Open Sesame"
 
 [clickbait](https://twitter.com/veazydoezit) 
-
+```
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
