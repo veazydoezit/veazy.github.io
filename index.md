@@ -241,11 +241,16 @@ _As you can see im all over the place when it comes to coding, but itll become r
 `[Link](www.twitter.com/veazydoezit) and 
 ![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)`
 
+<span style="color:teal">La Galleria de Veazy</span>.
+=====================================================
+
+[1^]: CLICK ON THE IMAGES TO BE REDIRECTED TO THE MARKETPLACE
+
 
 [![Find your Soulmate][3]][4]
 
 [3]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x8a79bac7a6383211ae902f34e86c6b729906346d/fb05245b-fe9f-4e0c-82cd-ed848ac496a1
-[4]:  https://zilswap.io/arky/collections/zil13fum43ax8qeprt5s9u6wsmrtw2vsvdrdhmvtrm "Enter the Citadel"
+[4]:  https://soullesscitadel.com/ "Enter the Citadel"
 
 [link] (https://zilswap.io/arky/discover)
 
@@ -254,12 +259,63 @@ _As you can see im all over the place when it comes to coding, but itll become r
 [5]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x8a79bac7a6383211ae902f34e86c6b729906346d/e84e4c92-2012-4fe2-b85e-df747dd78c32
 [6]: https://zilswap.io/arky/collections/zil13fum43ax8qeprt5s9u6wsmrtw2vsvdrdhmvtrm "Grrrr Pow"
 
-[![Engagement Farm][1]][2]
+[![Cartoon Universe][1]][2]
 
 [1]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b
-[2]:  https://twitter.com/veazydoezit "Love"
+[2]:  hhttps://zilswap.io/arky/collections/zil1xtvclrttu9xqk3mfsydapll0rfukfpr9cpc3u2 "Love"
 
-[clickbait](https://twitter.com/veazydoezit) 
+[![Heavy Metal Baby][7]][8]
+
+[7]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xbfe6f7b6f18c836d9dcd69ecc41e930e8f4e99a0/d399ad31-0903-4316-9162-bddc28c4d272
+[8]: https://zilswap.io/arky/collections/zil1hln00dh33jpkm8wdd8kvg85np685axdq84e4px "By Darkula"
+
+[![Pharoahs of Zilliqa][9]][10]
+
+[9]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x6b447e34d1515bf995377e295213c44aa0785563/53cd7fb8-8932-40f0-b374-4ee63dbce5e5
+[10]: https://zilswap.io/arky/collections/zil1ddz8udx329dln9fh0c54yy7yf2s8s4trd2le4y "King's and Queen's"
+
+[![Zil Baloons][11]][12]
+
+[11]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xe7bca9823588892da77ca12665c80ca3b17c2532/e2ce88f8-4dc3-4065-9550-b6d25f30b0d2
+[12]: https://zilswap.io/arky/collections/zil1u772nq343zyjmfmu5ynxtjqv5wchcffjd038lk "Zilfam"
+
+[![Soul Ape][13]][14]
+
+[13]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x85140bcc08639487efdf5fd727103e22a55966e5/c2afeaa8-190a-4936-9d27-cd7badcc8662
+[14]: https://zilswap.io/arky/collections/zil1s52qhnqgvw2g0m7ltltjwyp7y2j4jeh92dm2wy "SoulFam"
+
+[![The Bear Market][15]][16]
+
+[15]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xd793f378a925b9f0d3c4b6ee544d31c707899386/17199a6e-da17-499f-b17b-225d07379407
+[16]: https://zilswap.io/arky/collections/zil167flx79fykulp57ykmh9gnf3curcnyux6dcj5e "The Bear God Speaks"
+
+[![Zil Thugz][19]][20]
+
+[19]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xf7ef211b5d2d6c23998015377d2deb9173f8a336/0be2a6b7-e294-400d-874d-7698c72a2c49
+[20]: https://zilswap.io/arky/collections/zil17lhjzx6a94kz8xvqz5mh6t0tj9el3gek6vwqsn "Thugz Life"
+
+[![Zil Sneks][21]][22]
+
+[21]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xb9fa558b3fade42ad50b0fe27afa87c0c49fcea9/cd36e9eb-f928-4de5-a785-2d611f6a8087
+[22]: https://zilswap.io/arky/collections/zil1h8a9tzel4hjz44gtpl384758crzfln4fptya7j "Nobody makes me bleed my own blood, NOBODY"
+
+[![Dragon Zil][23]][24]
+
+[23]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xb4d83becb950c096b001a3d1c7abb10f571ae75f/5a6082e5-719e-4d8d-bb47-92b0a750a25d
+[24]: https://dragonzil.xyz/ "Fight Me!"
+
+[![Zil Duck][25]][26]
+
+[25]: https://d22rrd5cdtalai.cloudfront.net/DUCK_0347_b199866dc9874d4e.png
+[26]: https://duck.community/explore "Big Duck Engergy"
+
+[![Veazy's World][17]][18]
+
+[17]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xd793f378a925b9f0d3c4b6ee544d31c707899386/6ed6d750-8b1b-4ee6-acca-f553aa4055ec
+[18]: https://twitter.com/veazydoezit "Follow for Follow"
+
+
+>[clickbait](https://twitter.com/veazydoezit) 
 
 ```
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
