@@ -1,5 +1,4 @@
 # WELCOME
-=========
 
 ### Read the Rules
 ```
@@ -7,15 +6,13 @@ Rule 1: No Rules
 Rule 2: Just Kidding
 Rule 3: Refer to Rule 1
 ```
-FOOTNOTE VEAZYDOEZIT [1^]
+ZIFAM WUZ HERE [1^]
 
 [1^]: this is a foot note
 
 <span style="color:yellow">AM I DOING THIS RIGHT</span>.
 
 blah blah blah <span style="color:blue">IF YOU'RE READING THIS IT'S TOO LATE</span>.
-
-========================================================
 
 Fenced Code Block	```
 {
@@ -106,20 +103,11 @@ blah blah blah <span style="color:blue">IF YOU'RE READING THIS IT'S TOO LATE</sp
 
 
 ```
-Footnote	Making Changes [^1]
+Making Changes [^1]
 
-[^1]: This is the footnote.
-
+```
 `Heading ID	### My Great Heading {#custom-id}`
-
 ```
-
-: definition
-~~Sato Zil~~
-~~Sparda~~
-~~NFT Princess~~
-```
-
 ```
 Task List	
 
@@ -219,6 +207,6 @@ CLICK ON THE IMAGES TO BE REDIRECTED TO THE MARKETPLACE [1^]
 [![Cartoon Universe][1]][2]
 
 [1]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b
-[2]:  hhttps://zilswap.io/arky/collections/zil1xtvclrttu9xqk3mfsydapll0rfukfpr9cpc3u2 "CARTOON UNIVERSE"
+[2]:  https://zilswap.io/arky/collections/zil1xtvclrttu9xqk3mfsydapll0rfukfpr9cpc3u2 "CARTOON UNIVERSE"
 
 ### HUSTLE AND MOTIVATE 
