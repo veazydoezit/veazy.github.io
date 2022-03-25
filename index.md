@@ -1,5 +1,5 @@
-# WELCOME BEAUTIFUL BEINGS
-===========================
+# WELCOME
+=========
 
 ### Read the Rules
 ```
@@ -7,7 +7,6 @@ Rule 1: No Rules
 Rule 2: Just Kidding
 Rule 3: Refer to Rule 1
 ```
-
 FOOTNOTE VEAZYDOEZIT [1^]
 
 [1^]: this is a foot note
@@ -16,37 +15,7 @@ FOOTNOTE VEAZYDOEZIT [1^]
 
 blah blah blah <span style="color:blue">IF YOU'RE READING THIS IT'S TOO LATE</span>.
 
-
-<span style="color:PURPLE">MASTER GROW SCHEDULE</span>.
 ========================================================
-
-| Veg Sch 75 D	| Transplant | Training | Feeding | Veg Sch 75 D	| Transplant | Training | Feeding || Veg Sch 75 D	| Transplant | Training | Feeding |
-| ----------- | -----------| ---------| ------- | ----------- | -----------| ---------| ------- | ----------- | -----------| ---------| --------------|
-| Week 0-2 | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | Noneewrwe |
-| Week 3-4 | None | Topping/Mainline | Water | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compo |
-| Week 5-6 | (5) 5 gal pot | ML/Super Crop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal eeepot |
-| Week 7-8 | (8) 7 gal Pot w/ SS | ML/SC/Lollipop | Compost Tea | (2) 3 gal pot | None | Compost Tea || (2) 3 gal pot | None | Compost Tea | werwrewr |
-| Week 0-2 | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | Nonewewre |
-| Week 3-4 | None | Topping/Mainline | Water | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | werwe |
-| Week 5-6 | (5) 5 gal pot | ML/Super Crop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal potwwe |
-| Week 7-8 | (8) 7 gal Pot w/ SS | ML/SC/Lollipop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) wtww3 |
-| Week 0-2 | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | sdflgslf | rterter | wter |
-| Week 3-4 | None | Topping/Mainline | Water | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | wrtwtrwetw | wrtwtrwt | wrwt |
-| Week 5-6 | (5) 5 gal pot | ML/Super Crop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werfwer | werwrw |
-| Week 7-8 | (8) 7 gal Pot w/ SS | ML/SC/Lollipop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werwerwew |
-| Week 0-2 | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werwerwer | werwerwerweew |
-| Week 3-4 | None | Topping/Mainline | Water | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | wrewererwe | werwer | wer4er |
-| Week 5-6 | (5) 5 gal pot | ML/Super Crop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werWerwe | werwe |
-| Week 7-8 | (8) 7 gal Pot w/ SS | ML/SC/Lollipop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werwereee |
-| Week 0-2 | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | wwefwerw | werwer | werwe |
-| Week 3-4 | None | Topping/Mainline | Water | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werwrwer | werwerw | werwerw |
-| Week 5-6 | (5) 5 gal pot | ML/Super Crop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werwerr | werfwe |
-| Week 7-8 | (8) 7 gal Pot w/ SS | ML/SC/Lollipop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werwerwee |
-| Week 0-2 | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werfwerwe | wrewerewreeee |
-| Week 3-4 | None | Topping/Mainline | Water | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werwerwer| werwerw | werwere |
-| Week 5-6 | (5) 5 gal pot | ML/Super Crop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werwere | werwer |
-| Week 7-8 | (8) 7 gal Pot w/ SS | ML/SC/Lollipop | Compost Tea | (2) 3 gal pot | None | Compost Tea | (2) 3 gal pot | None | Compost Tea | werwereee |
-
 
 Fenced Code Block	```
 {
@@ -56,44 +25,6 @@ Fenced Code Block	```
 }
 
 My favorite color is <span style="color:Red">Blue</span>.
-
-
-```
-
-*balsdkfsaldkfjaslkdjflskjdfslakjflsk
-
-lskdfjalskdjflskjfdslkdfjslkj
-
-*sdlfkjsldfkjslkdfjslkdj
-
-```
-
-Table	| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-Fenced Code Block	
-
-```
-{
-  "firstName": "AIR",
-  "lastName": "VEAZY",
-  "age": 32
-}
-```
-```
-{
-  "Make": "Zil",
-  "Model": "Lambo",
-  "Class": "D",
-}
-```
-```
-{
-  "Are you Not Entertained???": "Do i not entertain You???: I AM GLADIOTOOORRR"
-}
-```
 
 Fenced Code Block```
 {
@@ -106,6 +37,13 @@ Fenced Code Block```
 
 * This is another list except this one has multiple paragraphs, as you continue to reads youll see what im talking about.
 
+
+==FOLLOW ME ON TWITTER FAM==
+
+[![Veazy's World][17]][18]
+
+[17]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xd793f378a925b9f0d3c4b6ee544d31c707899386/6ed6d750-8b1b-4ee6-acca-f553aa4055ec
+[18]: https://twitter.com/veazydoezit "VEAZYDOEZIT"
 
 ```markdown
 Syntax highlighted code block
@@ -174,10 +112,13 @@ Footnote	Making Changes [^1]
 
 `Heading ID	### My Great Heading {#custom-id}`
 
+```
+
 : definition
 ~~Sato Zil~~
 ~~Sparda~~
 ~~NFT Princess~~
+```
 
 ```
 Task List	
@@ -206,65 +147,7 @@ Superscript	X^2^
 
 >V~E~A~Z~Y D^O^E^Z^I^T
 
-I thought i was using the cayman theme what is this basic shit.
-
 _Whatever_
-
-```
-**To Do List** (Growing)
-
-1. Pay rent
-2. Feed my Plant
-3. Add some co2
-4. Flush in a couple of weeks
-5. Finish it off with 72 hrs of darkness
-6. Dry and Cure
-7. Get it tested
-8. Enter it into a competition
-9. Win that bih
-10. Become a Caregiver
-```
-```
-**To Do List** (Coding)
-
-1. Become an immortal
-2. Get offered a job from anonymous only to turn them down in the // comments
-3. Tell everyone that story when im drunk
-4. Start drinking
-5. Just kidding i dont really drink 
-6. Strop smoking
-7. Never
-8. ok seriously
-9. Learn to code
-10. Learn to build
-11. Learn to design
-12. Become a full stack
-```
-
-_As you can see im all over the place when it comes to coding, but itll become refined as i go._
-
-```
-**To Do List** (Community Building)
-
-1. Support the community
-2. Help our artists, developers and content creators gain exposure
-3. Support other communities that share the same vision and values
-4. Buy some artwork, share that artwork
-5. Open the Spaces to our Artists so the community can get to know them better.
-```
-```
-<image src="https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b" >
-  [Link](https://twitter.com/veazydoezit)
-```
-### I HAVE NO IDEA IF THIS WILL WORK ITS SUPPOSED TO SHOW DEWEY DUCK AND A LINK TO MY TWITTER PROFILE 
-
-**Bold** and _Italic_ and `Code` text
-```
-![DeweyDuck](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b "DeweyDuck")
-
-[Link](www.twitter.com/veazydoezit) and 
-![Image](https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b)
-```
 
 `the syntax boxes keep fxxkin me up`
 
@@ -273,6 +156,8 @@ _As you can see im all over the place when it comes to coding, but itll become r
 
 CLICK ON THE IMAGES TO BE REDIRECTED TO THE MARKETPLACE [1^]
 
+[link]: (https://zilswap.io/arky/discover)
+
 [1^]: this is a footnote
 
 
@@ -280,8 +165,6 @@ CLICK ON THE IMAGES TO BE REDIRECTED TO THE MARKETPLACE [1^]
 
 [3]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x8a79bac7a6383211ae902f34e86c6b729906346d/fb05245b-fe9f-4e0c-82cd-ed848ac496a1
 [4]:  https://soullesscitadel.com/ "THE SOULLESS CITADEL"
-
-[link] (https://zilswap.io/arky/discover)
 
 [![Gang Gang][5]][6]
 
@@ -328,19 +211,14 @@ CLICK ON THE IMAGES TO BE REDIRECTED TO THE MARKETPLACE [1^]
 [25]: https://d22rrd5cdtalai.cloudfront.net/DUCK_0347_b199866dc9874d4e.png
 [26]: https://duck.community/explore "ZIL DUCK"
 
-[![Veazy's World][17]][18]
-
-[17]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xd793f378a925b9f0d3c4b6ee544d31c707899386/6ed6d750-8b1b-4ee6-acca-f553aa4055ec
-[18]: https://twitter.com/veazydoezit "VEAZYDOEZIT"
-
-[![Cartoon Universe][1]][2] and [![Soul Ape][13]][14]
+[![Soul Ape][13]][14]
 
 [13]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x85140bcc08639487efdf5fd727103e22a55966e5/c2afeaa8-190a-4936-9d27-cd7badcc8662
 [14]: https://zilswap.io/arky/collections/zil1s52qhnqgvw2g0m7ltltjwyp7y2j4jeh92dm2wy "SOUL APE"
 
+[![Cartoon Universe][1]][2]
+
 [1]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b
 [2]:  hhttps://zilswap.io/arky/collections/zil1xtvclrttu9xqk3mfsydapll0rfukfpr9cpc3u2 "CARTOON UNIVERSE"
-
-```
 
 ### HUSTLE AND MOTIVATE 
