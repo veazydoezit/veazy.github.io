@@ -1,4 +1,4 @@
-# GET RICH OR DIE BUYING
+# ENTER
 
 ### Read the Rules
 ```
