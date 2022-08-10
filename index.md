@@ -3,7 +3,7 @@
 ### Read the Rules
 ```
 Rule 1: No Rules
-Rule 2: Just Kidding
+Rule 2: (REDACTED)
 Rule 3: Refer to Rule 1
 ```
 I WUZ HERE [1^]
@@ -18,7 +18,7 @@ Fenced Code Block	```
 {
   "firstName": "AIR",
   "lastName": "VEAZY",
-  "age": 32
+  "age": 33
 }
 
 My favorite color is <span style="color:Red">Blue</span>.
