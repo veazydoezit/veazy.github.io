@@ -39,7 +39,7 @@ Fenced Code Block```
 
 [![Veazy's World][17]][18]
 
-[17]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xd793f378a925b9f0d3c4b6ee544d31c707899386/6ed6d750-8b1b-4ee6-acca-f553aa4055ec
+[17]: https://img.seadn.io/files/374bd2a1e573508240c789551e660f19.png?fit=max
 [18]: https://twitter.com/veazydoezit "VEAZYDOEZIT"
 
 ```markdown
