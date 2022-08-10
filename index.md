@@ -35,9 +35,9 @@ Fenced Code Block```
 * This is another list except this one has multiple paragraphs, as you continue to reads youll see what im talking about.
 
 
-==FOLLOW ME ON TWITTER FAM==
+==DEGEN'S ONLY==
 
-[![Veazy's World][17]][18]
+[![TV-MA][17]][18]
 
 [17]: https://img.seadn.io/files/374bd2a1e573508240c789551e660f19.png?fit=max
 [18]: https://twitter.com/veazydoezit "VEAZYDOEZIT"
