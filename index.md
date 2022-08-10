@@ -151,62 +151,32 @@ CLICK ON THE IMAGES TO BE REDIRECTED TO THE MARKETPLACE [1^]
 
 [![no justice no peace][3]][4]
 
-[3]:  https://img.seadn.io/files/f31bb95bf16a65f09e926321317ea82b.png?fit=max
-[4]:  https://apehaterclub.com/ "fuck off"
+[3]: https://img.seadn.io/files/f31bb95bf16a65f09e926321317ea82b.png?fit=max
+[4]: https://apehaterclub.com/ "fuck off"
 
 [![Gang Gang][5]][6]
 
-[5]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x8a79bac7a6383211ae902f34e86c6b729906346d/e84e4c92-2012-4fe2-b85e-df747dd78c32
-[6]: https://zilswap.io/arky/collections/zil13fum43ax8qeprt5s9u6wsmrtw2vsvdrdhmvtrm "MARKETPLACE"
+[5]: https://img.seadn.io/files/67e7553e3e10513c4dec7f9c0a805caf.png?fit=max
+[6]: https://opensea.io/collection/apehaterclub "brokn sea"
 
-[![Heavy Metal Baby][7]][8]
+[![Cult Chat 1][7]][8]
 
-[7]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xbfe6f7b6f18c836d9dcd69ecc41e930e8f4e99a0/d399ad31-0903-4316-9162-bddc28c4d272
-[8]: https://zilswap.io/arky/collections/zil1hln00dh33jpkm8wdd8kvg85np685axdq84e4px "HEAVY METAL BABY"
+[7]: https://img.seadn.io/files/b698d408cbbf433f3eb4e516e86113cc.png?fit=max
+[8]: https://godhatesnftees.com/ "just kiddin"
 
-[![Pharoahs of Zilliqa][9]][10]
+[![dont paperhand it][9]][10]
 
-[9]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x6b447e34d1515bf995377e295213c44aa0785563/53cd7fb8-8932-40f0-b374-4ee63dbce5e5
-[10]: https://zilswap.io/arky/collections/zil1ddz8udx329dln9fh0c54yy7yf2s8s4trd2le4y "PHARAOAHS OF ZILLIQA"
+[9]: https://img.seadn.io/files/afe5b99c5dad3d927203e32aba2a4169.png?fit=max
+[10]: https://opensea.io/collection/godhatesnftees "BENNY BITCH TITS"
 
-[![Zil Baloons][11]][12]
+[![troy's mom][11]][12]
 
-[11]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xe7bca9823588892da77ca12665c80ca3b17c2532/e2ce88f8-4dc3-4065-9550-b6d25f30b0d2
-[12]: https://zilswap.io/arky/collections/zil1u772nq343zyjmfmu5ynxtjqv5wchcffjd038lk "ZIL BALLOONS"
+[11]: https://lh3.googleusercontent.com/A-7PI2m7xgHqeBlhmjlJKWrAhdKpqj0ac2txVEarEsIpzENmYi4TUU91n7ZtUtUIt_lk4xbTQGr_Wps9nsQ_7z6K0d4cFlIFdTJulg=s0
+[12]: https://opensea.io/collection/chilipalm "get in line"
 
-[![The Bear Market][15]][16]
+[![free coasterz][15]][16]
 
-[15]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xd793f378a925b9f0d3c4b6ee544d31c707899386/17199a6e-da17-499f-b17b-225d07379407
-[16]: https://zilswap.io/arky/collections/zil167flx79fykulp57ykmh9gnf3curcnyux6dcj5e "THE BEAR MARKET"
-
-[![Zil Thugz][19]][20]
-
-[19]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xf7ef211b5d2d6c23998015377d2deb9173f8a336/0be2a6b7-e294-400d-874d-7698c72a2c49
-[20]: https://zilswap.io/arky/collections/zil17lhjzx6a94kz8xvqz5mh6t0tj9el3gek6vwqsn "ZIL THUGZ"
-
-[![Zil Sneks][21]][22]
-
-[21]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xb9fa558b3fade42ad50b0fe27afa87c0c49fcea9/cd36e9eb-f928-4de5-a785-2d611f6a8087
-[22]: https://zilswap.io/arky/collections/zil1h8a9tzel4hjz44gtpl384758crzfln4fptya7j "ZIL SNEKS"
-
-[![Dragon Zil][23]][24]
-
-[23]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0xb4d83becb950c096b001a3d1c7abb10f571ae75f/5a6082e5-719e-4d8d-bb47-92b0a750a25d
-[24]: https://dragonzil.xyz/ "DRAGON ZIL"
-
-[![Zil Duck][25]][26]
-
-[25]: https://d22rrd5cdtalai.cloudfront.net/DUCK_0347_b199866dc9874d4e.png
-[26]: https://duck.community/explore "ZIL DUCK"
-
-[![Soul Ape][13]][14]
-
-[13]: https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x85140bcc08639487efdf5fd727103e22a55966e5/c2afeaa8-190a-4936-9d27-cd7badcc8662
-[14]: https://zilswap.io/arky/collections/zil1s52qhnqgvw2g0m7ltltjwyp7y2j4jeh92dm2wy "SOUL APE"
-
-[![Cartoon Universe][1]][2]
-
-[1]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x32d98f8d6be14c0b4769811bd0ffef1a79648465/a3b57be2-9635-4978-bee1-938f96b9e17b
-[2]:  https://zilswap.io/arky/collections/zil1xtvclrttu9xqk3mfsydapll0rfukfpr9cpc3u2 "CARTOON UNIVERSE"
+[15]: https://img.seadn.io/files/62184f39f0cf25a33c44e1536cbeab8f.png?fit=max 
+[16]: https://twitter.com/GodHatesNFTees?s=20&t=8Zpy1XreIfs6yTodTKh4kQ "pussy poppin"
 
 ### HUSTLE AND MOTIVATE 
