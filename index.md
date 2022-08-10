@@ -37,10 +37,10 @@ Fenced Code Block```
 
 ==DEGEN'S ONLY==
 
-[![TV-MA][17]][18]
+[![TV-MA][1]][2]
 
-[17]: https://img.seadn.io/files/374bd2a1e573508240c789551e660f19.png?fit=max
-[18]: https://twitter.com/veazydoezit "VEAZYDOEZIT"
+[1]: https://img.seadn.io/files/374bd2a1e573508240c789551e660f19.png?fit=max
+[2]: https://twitter.com/veazydoezit "VEAZYDOEZIT"
 
 ```markdown
 Syntax highlighted code block
