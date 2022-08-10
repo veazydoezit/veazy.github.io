@@ -1,4 +1,4 @@
-# WELCOME
+# GET RICH OR DIE BUYING
 
 ### Read the Rules
 ```
