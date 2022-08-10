@@ -6,7 +6,7 @@ Rule 1: No Rules
 Rule 2: Just Kidding
 Rule 3: Refer to Rule 1
 ```
-ZIFAM WUZ HERE [1^]
+I WUZ HERE [1^]
 
 [1^]: this is a foot note
 
@@ -144,15 +144,15 @@ _Whatever_
 
 CLICK ON THE IMAGES TO BE REDIRECTED TO THE MARKETPLACE [1^]
 
-[link]: (https://zilswap.io/arky/discover)
+[link]: (https://img.seadn.io/files/374bd2a1e573508240c789551e660f19.png?fit=max)
 
 [1^]: this is a footnote
 
 
-[![Find your Soulmate][3]][4]
+[![no justice no peace][3]][4]
 
-[3]:  https://arkstatic.s3.ap-southeast-1.amazonaws.com/prod/nfts/0x8a79bac7a6383211ae902f34e86c6b729906346d/fb05245b-fe9f-4e0c-82cd-ed848ac496a1
-[4]:  https://soullesscitadel.com/ "THE SOULLESS CITADEL"
+[3]:  https://img.seadn.io/files/f31bb95bf16a65f09e926321317ea82b.png?fit=max
+[4]:  https://apehaterclub.com/ "fuck off"
 
 [![Gang Gang][5]][6]
 
