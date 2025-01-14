@@ -1,5 +1,3 @@
-# ENTER
-
 ### Read the Rules
 ```
 Rule 1: No Rules
@@ -35,10 +33,6 @@ Fenced Code Block```
 
 
 ==REAL ONES ONLY==
-
-[![TV-MA][1]]
-
-[1]: https://twitter.com/veazydoezit "VEAZYDOEZIT"
 
 ```markdown
 Syntax highlighted code block
@@ -92,7 +86,7 @@ Emoji
 Highlight	I need to highlight these ==very important words==.
 
 ```
-==NINES IS A LEGEND==
+==FOLLOW ME ON X==
 ```
 
 Subscript	H~2~O
